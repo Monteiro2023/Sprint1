@@ -1,0 +1,28 @@
+body{/* Abrindo body */
+    background-color: #cdcb37;
+    color: rgba(4, 0, 0, 0.874);
+    font-family: monospace;
+    font-size: 18px;
+    }/* Fechando body */
+
+    /* Criando uma classe exemplo */
+    .titulo{
+        font-size: 25px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: #0000ff;
+
+    }
+
+    .sexta{
+        font-size: 25px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        color: brown;
+
+    }
+
+    .madrugada{
+        text-align:justify        
+        
+        
+
+    }
